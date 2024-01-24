@@ -18,6 +18,6 @@ module.exports = {
     ],
   },
   env: {
-    node: true,
+    node: false,
   },
 };
